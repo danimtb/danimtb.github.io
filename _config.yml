@@ -17,3 +17,5 @@ github_username:  danimtb
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-minimal
