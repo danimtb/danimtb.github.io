@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'danimtb'
 SITENAME = "danimtb's blog"
-SITEURL = ''
+SITEURL = 'danimtb.com'
 
 PATH = 'content'
 
@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'en'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'extra/CNAME']
 
 THEME = "pelican-clean-blog"
 COLOR_SCHEME_CSS = 'tomorrow.css'
