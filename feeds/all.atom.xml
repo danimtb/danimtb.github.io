@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>danimtb's blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-02-10T17:11:00+01:00</updated><entry><title>Hello World!</title><link href="/hello-world.html" rel="alternate"></link><published>2019-02-10T17:11:00+01:00</published><updated>2019-02-10T17:11:00+01:00</updated><author><name>danimtb</name></author><id>tag:None,2019-02-10:/hello-world.html</id><summary type="html">&lt;p class="first last"&gt;A Hello World first post on this blog!&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;After considering different alternatives to create my blog and having tried jekyll before, I decided to give pelican a try!&lt;/p&gt;
+&lt;p&gt;Let's see how it works!&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="k"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;&amp;quot;Hello World!&amp;quot;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;a class="reference external image-reference" href="/images/hello_world.png"&gt;&lt;img alt="Hello world inspirational image" id="id1" src="/images/hello_world.png" /&gt;&lt;/a&gt;
+&lt;p&gt;Most of the information on setting up this has been extracted from the following links:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Renata's blog: &lt;a class="reference external" href="https://rsip22.github.io/blog/create-a-blog-with-pelican-and-github-pages.html"&gt;Creating a blog with pelican and Github pages&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="https://docs.getpelican.com/en/stable/index.html"&gt;Pelican documentation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference external" href="http://docutils.sourceforge.net/docs/user/rst/quickref.html#comments"&gt;restructuredText quick reference&lt;/a&gt; (Only if you use &lt;em&gt;.rst&lt;/em&gt; format for your posts).&lt;/li&gt;
+&lt;/ul&gt;
+</content><category term="first"></category><category term="misc"></category></entry></feed>
