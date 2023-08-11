@@ -1,0 +1,54 @@
+---
+#
+# Use the widgets beneath and the content will be
+# inserted automagically in the webpage. To make
+# this work, you have to use › layout: frontpage
+#
+layout: frontpage
+header:
+  image_fullwidth: gallery-example-1.jpg
+
+widget1:
+  title: "Nuestro propósito"
+  url: 'http://localhost:4000/info/'
+  text: '<em>Mountain Signals</em> ofrece tecnología de medición y monitorización para entornos rurales o de difícil acceso.<br/>1. Sin necesidad de cobertura móvil ni internet<br/>2. Bajo impacto y mantenimiento.<br/>3. Transmisión de datos largo alcance.<br/>4. Adaptable a cada necesidad.'
+  image: logo-ms.png
+widget2:
+  title: "Proyecto PeakSense Valle de Benasque"
+  url: 'http://localhost:4000/peaksense/'
+  image: peaksense-benasque.jpg
+  text: '<em>PeakSense Benasque</em> es un proyecto pionero que ofrece mediciones en tiempo real de los picos del valle de de Benasque gracias a la tecnología de Mountain Signals.'
+widget3:
+  title: "Nuestro blog"
+  url: 'http://localhost:4000/blog/'
+  image: blog.png
+  text: 'Aquí enocntraras noticias y avances de nuestros proyectos, referencias a toda nuestros proyectos y dispositivos, así como casos de uso y aplicaciones de nuestra tecnología.'
+#
+# Use the call for action to show a button on the frontpage
+#
+# To make internal links, just use a permalink like this
+# url: /getting-started/
+#
+# To style the button in different colors, use no value
+# to use the main color or success, alert or secondary.
+# To change colors see sass/_01_settings_colors.scss
+#
+callforaction:
+  url: http://localhost:4000/contact
+  text: ¿Interesado en nuestra tecnolgía? Queremos saber más sobre tu caso de uso >>
+  style: alert
+
+permalink: /index.html
+#
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
+homepage: true
+---
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>

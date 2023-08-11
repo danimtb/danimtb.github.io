@@ -1,0 +1,19 @@
+- name: Instagram
+  url: http://instagram.com/danimtb93
+  class: icon-instagram
+  title: Instagram
+
+- name: YouTube
+  url: http://www.youtube.com/danimtb
+  class: icon-youtube
+  title: "YouTube"
+
+- name: Twitter
+  url: http://twitter.com/Dani_MTB
+  class: icon-twitter
+  title: "Twitter"
+
+- name: GitHub
+  url: http://github.com/danimtb
+  class: icon-github
+  title: GitHub
