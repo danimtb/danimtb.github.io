@@ -22,7 +22,7 @@ widget3:
   title: "Nuestro blog"
   url: 'https://danimtb.github.io/blog/'
   image: blog.png
-  text: 'Aquí enocntraras noticias y avances de nuestros proyectos, referencias a nuestra tecnología y dispositivos, así como casos de usos y aplicaciones.'
+  text: 'Aquí enocntrarás noticias y avances de nuestros proyectos, referencias a nuestra tecnología y dispositivos, así como casos de usos y aplicaciones.'
 #
 # Use the call for action to show a button on the frontpage
 #

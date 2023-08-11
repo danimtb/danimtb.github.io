@@ -1,5 +1,5 @@
-- menu_name: "Projects"
+- menu_name: "Proyectos"
 
 - name: "PeakSense Benasque"
-  url: "http://peaksense.com/benasque"
-  title: "PeakSense project in Benasque"
+  url: "http://danimtb.github.io/peaksense"
+  title: "Proyecto PeakSense en Benasque"
