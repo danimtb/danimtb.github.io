@@ -1,14 +1,13 @@
 ---
 layout: page
-title:  "Header with a Full-Width-Image"
-subheadline:  "Headers With Style"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows a header with a <em>full-width-image</em>."
+title: "Hola Mundo!"
+subheadline: "Bienvenida al blog de Mountain Signals"
+teaser: "El blog de Mountain Signals se presenta al mundo."
 categories:
-    - design
+    - misc
 tags:
-    - design
-    - background color
-    - header
+    - presentación
+    - tecnología
 image:
    thumb: "unsplash_brooklyn-bridge-thumb.jpg"
 header:
@@ -16,6 +15,7 @@ header:
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 ---
+
 It's so easy to do. Just define in front matter your image.
 <!--more-->
 
