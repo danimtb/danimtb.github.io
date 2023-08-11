@@ -10,19 +10,19 @@ header:
 
 widget1:
   title: "Nuestro propósito"
-  url: 'http://localhost:4000/info/'
-  text: '<em>Mountain Signals</em> ofrece tecnología de medición y monitorización para entornos rurales o de difícil acceso.<br/>1. Sin necesidad de cobertura móvil ni internet<br/>2. Bajo impacto y mantenimiento.<br/>3. Transmisión de datos largo alcance.<br/>4. Adaptable a cada necesidad.'
+  url: 'https://danimtb.github.io/info/'
+  text: '<em>Mountain Signals</em> ofrece tecnología de medición y monitorización para entornos rurales o de difícil acceso.<br/>1. Sin necesidad de cobertura móvil ni internet<br/>2. Bajo impacto y mantenimiento.<br/>3. Transmisión de datos de largo alcance.<br/>4. Adaptable a cada necesidad.'
   image: logo-ms.png
 widget2:
   title: "Proyecto PeakSense Valle de Benasque"
-  url: 'http://localhost:4000/peaksense/'
+  url: 'https://danimtb.github.io/peaksense/'
   image: peaksense-benasque.jpg
   text: '<em>PeakSense Benasque</em> es un proyecto pionero que ofrece mediciones en tiempo real de los picos del valle de de Benasque gracias a la tecnología de Mountain Signals.'
 widget3:
   title: "Nuestro blog"
-  url: 'http://localhost:4000/blog/'
+  url: 'https://danimtb.github.io/blog/'
   image: blog.png
-  text: 'Aquí enocntraras noticias y avances de nuestros proyectos, referencias a toda nuestros proyectos y dispositivos, así como casos de uso y aplicaciones de nuestra tecnología.'
+  text: 'Aquí enocntraras noticias y avances de nuestros proyectos, referencias a nuestra tecnología y dispositivos, así como casos de usos y aplicaciones.'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -34,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: http://localhost:4000/contact
-  text: ¿Interesado en nuestra tecnolgía? Queremos saber más sobre tu caso de uso >>
+  url: https://danimtb.github.io/contact
+  text: ¿Interesado en lo que hacemos? Cuéntanos más! >>
   style: alert
 
 permalink: /index.html
