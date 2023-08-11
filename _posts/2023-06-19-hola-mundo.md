@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hola Mundo!"
-subheadline: "Bienvenida al blog de Mountain Signals"
+subheadline: "Primer artículo en el blog de Mountain Signals"
 teaser: "El blog de Mountain Signals se presenta al mundo."
 categories:
     - misc
