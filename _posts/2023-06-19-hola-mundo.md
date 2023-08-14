@@ -8,10 +8,9 @@ categories:
 tags:
     - presentación
     - tecnología
+header: no
 image:
-   thumb: "hello_world-thumb.png"
-header:
-    image_fullwidth: "hello_world-banner.png"
+    title: "hello_world.png"
     caption: Imagen generada con ayuda de Dall·e 2 
     caption_url: https://openai.com/dall-e-2
 ---
