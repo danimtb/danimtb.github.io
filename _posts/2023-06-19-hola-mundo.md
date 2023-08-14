@@ -9,11 +9,11 @@ tags:
     - presentación
     - tecnología
 image:
-   thumb: "unsplash_brooklyn-bridge-thumb.jpg"
+   thumb: "hello_world-thumb.png"
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
-    caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/
+    image_fullwidth: "hello_world-banner.png"
+    caption: Imagen generada con ayuda de Dall·e 2 
+    caption_url: https://openai.com/dall-e-2
 ---
 
 It's so easy to do. Just define in front matter your image.
