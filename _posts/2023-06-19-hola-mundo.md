@@ -2,20 +2,21 @@
 layout: page
 title: "El blog de Mountain Signals se presenta: Hola Mundo!"
 subheadline: "Un viaje a través de las ondas de radiofrecuencia"
-teaser: "Explorando el poder de conectar lugares remotos"
+teaser: "Explorando el poder de conectar lugares remotos."
 categories:
-    - miscelánea
+    - misc
 tags:
     - inspiración
     - tecnología
 header: no
 image:
-    title: "hello_world.png"
+    title: hello_world.png
+    thumb: hello_world-thumb.png
     caption: Imagen generada con ayuda de Dall·e 2 
     caption_url: https://openai.com/dall-e-2
 ---
 
-¡Bienvenidos a [Mountain Signals](mountainsignals.es), una ventana hacia un mundo emocionante donde las montañas no son obstáculos, sino puentes que conectan entornos remotos!
+¡Bienvenidos a [Mountain Signals](https://mountainsignals.es), una ventana hacia un mundo emocionante donde las montañas no son obstáculos, sino puentes que conectan entornos remotos!
 Estamos encantados de inaugurar este espacio donde la innovación, la aventura y la resolución de problemas convergen en un solo lugar.
 
 Imagina esto: Estás rodeado por majestuosas montañas de una belleza abrumadora, en un lugar remoto o poco accesible, pero enfrentas un desafío formidable. Necesitas establecer comunicación con una base en un valle lejano, donde la distancia y la geografía dificultan el acceso a las redes convencionales. ¿Cómo superarías esta barrera aparentemente insuperable? La respuesta está en el aire, en las ondas invisibles que surcan el espacio a velocidades asombrosas: las ondas de radiofrecuencia.
@@ -30,4 +31,4 @@ En cada publicación, desentrañaremos los conceptos detrás de la tecnología d
 
 Así que únete a nosotros en este emocionante viaje a través de las ondas de radiofrecuencia. Descubre cómo pequeños dispositivos están construyendo puentes sobre las montañas y derribando barreras en los lugares más inaccesibles. Juntos, exploraremos nuevas fronteras, enfrentaremos desafíos emocionantes y demostraremos que la tecnología y la determinación pueden unirse para cambiar el mundo, incluso en los rincones más recónditos de la Tierra.
 
-Hoy, con esta entrada iniciamos nuestro viaje ¿Nos acompañas? [mountainsignals.es](mountainsignals.es)
+Hoy, con esta entrada iniciamos nuestro viaje ¿Nos acompañas? [mountainsignals.es](https://mountainsignals.es)

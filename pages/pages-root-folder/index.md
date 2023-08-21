@@ -10,17 +10,17 @@ header:
 
 widget1:
   title: "Nuestro propósito"
-  url: 'https://danimtb.github.io/info/'
+  url: '/info'
   text: '<em>Mountain Signals</em> ofrece tecnología de medición y monitorización para entornos rurales o de difícil acceso.<br/>1. Sin necesidad de cobertura móvil ni internet<br/>2. Bajo impacto y mantenimiento.<br/>3. Transmisión de datos de largo alcance.<br/>4. Adaptable a cada necesidad.'
   image: logo-ms.png
 widget2:
   title: "Proyecto PeakSense Valle de Benasque"
-  url: 'https://danimtb.github.io/peaksense/'
+  url: '/peaksense'
   image: peaksense-benasque.jpg
   text: '<em>PeakSense Benasque</em> es un proyecto pionero que ofrece mediciones en tiempo real de los picos del valle de de Benasque gracias a la tecnología de Mountain Signals.'
 widget3:
   title: "Nuestro blog"
-  url: 'https://danimtb.github.io/blog/'
+  url: '/blog'
   image: blog.png
   text: 'Aquí enocntrarás noticias y avances de nuestros proyectos, referencias a nuestra tecnología y dispositivos, así como casos de usos y aplicaciones.'
 #
@@ -34,9 +34,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://danimtb.github.io/contact
+  url: '/contact'
   text: ¿Interesado en lo que hacemos? Cuéntanos más! >>
-  style: alert
+  style: info
 
 permalink: /index.html
 #
