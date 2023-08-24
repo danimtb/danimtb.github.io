@@ -12,7 +12,7 @@ header: no
 image:
     title: hello_world.png
     thumb: hello_world-thumb.png
-    caption: Imagen generada con ayuda de Dall·e 2 
+    caption: "Imagen generada con ayuda de Dall·e 2: 'a hello world image with nature contour at the bottom and starring sky'"
     caption_url: https://openai.com/dall-e-2
 ---
 
